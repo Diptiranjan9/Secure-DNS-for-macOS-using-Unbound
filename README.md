@@ -151,7 +151,7 @@ curl -o /opt/homebrew/etc/unbound/root.hints https://www.internic.net/domain/nam
 5. Initialize DNSSEC Root Key:
 
 ```
-sudo brew services start unbound
+unbound-anchor -a /opt/homebrew/etc/unbound/root.key
 ```
 
 6. Check the Unbound Configuration File
