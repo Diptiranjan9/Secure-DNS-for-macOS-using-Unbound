@@ -63,6 +63,11 @@ To mitigate the limitations of both technologies, it is highly recommended to us
 
 Compared to BIND, Unbound is often considered more lightweight and resource-efficient, with a stronger focus on security. It's a solid choice for those prioritizing security and performance.
 
+## Installation Guide for both macOS and Linux.
+
+- [Installation macOS](Installation-macOS.md)
+- [Installation Ubuntu](Installation-Linux.md)
+
 ### Verification command output:
 
 ```
