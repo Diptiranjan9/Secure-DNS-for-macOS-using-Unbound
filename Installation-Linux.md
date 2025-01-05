@@ -107,7 +107,7 @@ sudo systemctl start unbound
 sudo systsystemctl status unbound
 ```
 
-9. Configure linux to Use Unbound:
+9. Configure DNS as `127.0.0.1` and `::1` in network interface to use Unbound
 
 ### Testing the Setup
 
