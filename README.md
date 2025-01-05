@@ -303,7 +303,9 @@ google.com.		290	IN	AAAA	2404:6800:4009:825::200e
 
 - No logging reduces sensitive data exposure, and strict DNSSEC validation ensures data integrity.
 
-#### I am adding the DNS traffic flow analysis [here](https://github.com/Diptiranjan9/Secure-DNS-for-macOS-using-Unbound/blob/main/Unbound-Traffic-Analysis.pcapng).
+### Traffic Analysis:
+
+#### I am adding the DNS traffic flow analysis for both IPv4 and IPv6 [here](https://github.com/Diptiranjan9/Secure-DNS-for-macOS-using-Unbound/tree/main/pcapfile).
 
 ## Reference
 
