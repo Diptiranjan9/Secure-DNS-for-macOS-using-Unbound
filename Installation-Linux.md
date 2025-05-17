@@ -104,7 +104,7 @@ sudo systemctl start unbound
 8. Verify Unbound service is running 
 
 ```
-sudo systsystemctl status unbound
+sudo systemctl status unbound
 ```
 
 9. Configure DNS as `127.0.0.1` and `::1` in network interface to use Unbound
